@@ -1,4 +1,0 @@
-bokeh
-pandas
-geopandas
-scikit-learn
